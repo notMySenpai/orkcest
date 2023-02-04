@@ -71,9 +71,7 @@ Intermediate/*
 Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
-
-Orkcest/Intermediate/CachedAssetRegistry.bin
-Orkcest/Saved/AutoScreenshot.png
-Orkcest/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-Orkcest/Saved/Config/Windows/Engine.ini
-Orkcest/Saved/Logs/Orkcest.log
+DerivedDataCache/*
+Config/*
+Intermediate/*
+Saved/*
