@@ -72,15 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Orkcest/Config/DefaultEditor.ini
-Orkcest/Intermediate/CachedAssetRegistry.bin
-Orkcest/Intermediate/Config/CoalescedSourceConfigs/Editor.ini
-Orkcest/Saved/Config/Windows/Editor.ini
-Orkcest/Saved/AutoScreenshot.png
-Orkcest/Saved/Logs/Orkcest.log
-Orkcest/Saved/Autosaves/PackageRestoreData.json
-Orkcest/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-Orkcest/Intermediate/CachedAssetRegistry.bin
-Orkcest/Saved/AutoScreenshot.png
-Orkcest/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-Orkcest/Saved/Logs/Orkcest.log
+Orkcest/Config/*
+Orkcest/Intermediate/*
+Orkcest/Saved/*
