@@ -904,3 +904,288 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.04-17.41.52:035][900]LogSlate: Window 'Player' being destroyed
 [2023.02.04-17.41.52:037][900]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2023.02.04-17.41.52:037][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-17.42.44:545][400]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TwinStickBP/Blueprints/Player.Player
+[2023.02.04-17.43.05:444][347]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.04-17.56.18:888][696]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.04-17.56.18:903][696]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.04-17.56.21:258][978]LogContentBrowser: Attempting asset rename: NewFolder -> Espada
+[2023.02.04-17.56.21:258][978]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.04-17.56.25:220][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Armas/Espada/Espada" FILE="../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Espada/Espada.uasset" SILENT=true
+[2023.02.04-17.56.25:228][402]LogSavePackage: Moving '../../../../../../Users/Kike/Github/orkcest/Orkcest/Saved/Espada46FB10B644A63925A048B198BB9F90CE.tmp' to '../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Espada/Espada.uasset'
+[2023.02.04-17.56.25:235][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Armas/Espada/Material" FILE="../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Espada/Material.uasset" SILENT=true
+[2023.02.04-17.56.25:239][402]LogSavePackage: Moving '../../../../../../Users/Kike/Github/orkcest/Orkcest/Saved/MaterialA06656B04D65BEF2EEC44C9B6F3FD405.tmp' to '../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Espada/Material.uasset'
+[2023.02.04-17.56.25:247][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Armas/Espada/Material_001" FILE="../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Espada/Material_001.uasset" SILENT=true
+[2023.02.04-17.56.25:251][402]LogSavePackage: Moving '../../../../../../Users/Kike/Github/orkcest/Orkcest/Saved/Material_0015E2A67564056950EF93D44A3B428EE91.tmp' to '../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Espada/Material_001.uasset'
+[2023.02.04-17.56.25:258][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Armas/Espada/Material_002" FILE="../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Espada/Material_002.uasset" SILENT=true
+[2023.02.04-17.56.25:262][402]LogSavePackage: Moving '../../../../../../Users/Kike/Github/orkcest/Orkcest/Saved/Material_0029CB450EF42EB4FA7DC3EAF8459811A9F.tmp' to '../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Espada/Material_002.uasset'
+[2023.02.04-17.56.25:272][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Armas/Espada/Material_003" FILE="../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Espada/Material_003.uasset" SILENT=true
+[2023.02.04-17.56.25:276][402]LogSavePackage: Moving '../../../../../../Users/Kike/Github/orkcest/Orkcest/Saved/Material_0033171DAD14EBBA0B6B9D1F4AA7B038214.tmp' to '../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Espada/Material_003.uasset'
+[2023.02.04-17.56.25:283][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Armas/Espada/Material_004" FILE="../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Espada/Material_004.uasset" SILENT=true
+[2023.02.04-17.56.25:288][402]LogSavePackage: Moving '../../../../../../Users/Kike/Github/orkcest/Orkcest/Saved/Material_00471C7D69A4F10D1D7A9C8749BD29DE3DF.tmp' to '../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Espada/Material_004.uasset'
+[2023.02.04-17.56.25:412][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.02.04-17.56.25:427][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.02.04-17.56.25:439][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.02.04-17.56.25:452][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.02.04-17.56.25:464][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.02.04-17.56.25:475][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.02.04-17.56.25:495][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.02.04-17.56.25:507][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.02.04-17.56.25:527][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Blueprints/Player" FILE="../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/TwinStickBP/Blueprints/Player.uasset" SILENT=true
+[2023.02.04-17.56.25:538][402]LogSavePackage: Moving '../../../../../../Users/Kike/Github/orkcest/Orkcest/Saved/Player438789FF40C9C20DFFF79C94D95D49CF.tmp' to '../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/TwinStickBP/Blueprints/Player.uasset'
+[2023.02.04-17.56.25:593][402]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.04-17.56.25:593][402]LogContentValidation: Display: Validating Material /Game/Mesh/Armas/Espada/Material.Material
+[2023.02.04-17.56.25:593][402]LogContentValidation: Display: Validating Material /Game/Mesh/Armas/Espada/Material_001.Material_001
+[2023.02.04-17.56.25:593][402]LogContentValidation: Display: Validating Material /Game/Mesh/Armas/Espada/Material_002.Material_002
+[2023.02.04-17.56.25:593][402]LogContentValidation: Display: Validating Material /Game/Mesh/Armas/Espada/Material_003.Material_003
+[2023.02.04-17.56.25:593][402]LogContentValidation: Display: Validating StaticMesh /Game/Mesh/Armas/Espada/Espada.Espada
+[2023.02.04-17.56.25:593][402]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/Player.Player
+[2023.02.04-17.56.25:593][402]LogContentValidation: Display: Validating Material /Game/Mesh/Armas/Espada/Material_004.Material_004
+[2023.02.04-17.56.27:652][634]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.04-17.56.27:663][634]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.04-17.56.29:679][876]LogContentBrowser: Attempting asset rename: NewFolder -> Hacha
+[2023.02.04-17.56.29:680][876]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.04-17.56.37:779][223]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Kike\Github\orkcest\Models\Axe.fbx)
+[2023.02.04-17.56.37:786][223]LogFbx: Loading FBX Scene from C:\Users\Kike\Github\orkcest\Models\Axe.fbx
+[2023.02.04-17.56.37:791][223]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.04-17.56.39:109][223]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.02.04-17.56.39:137][223]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: A46D4FB1075D89E599C3CBF6D71E580A0935EE70), compiling. 
+[2023.02.04-17.56.39:142][223]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 614EEBC904472D00F6A9D5898A1364819D99517B), compiling. 
+[2023.02.04-17.56.39:145][223]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 0CD54D8116AC5F2FDDCC600B5FCD7FC9411D9208), compiling. 
+[2023.02.04-17.56.39:146][223]LogFbx: Display: Triangulating static mesh Axe
+[2023.02.04-17.56.39:153][223]LogStaticMesh: Building static mesh Axe...
+[2023.02.04-17.56.39:156][223]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/Armas/Hacha/Axe.Axe
+[2023.02.04-17.56.39:164][223]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.04-17.56.39:222][223]LogSlate: Took 0.000068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.04-17.56.39:251][227]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.04-17.56.39:254][227]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.04-17.56.39:256][227]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.04-17.56.39:261][227]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2023.02.04-17.56.39:261][227]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2023.02.04-17.56.39:261][227]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2023.02.04-17.56.39:261][227]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2023.02.04-17.56.39:261][227]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2023.02.04-17.56.39:261][227]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2023.02.04-17.56.39:261][227]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.04-17.56.39:284][227]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.02.04-17.56.39:286][227]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 14
+[2023.02.04-17.56.39:286][227]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 12
+[2023.02.04-17.56.39:286][227]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2023.02.04-17.56.39:286][227]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2023.02.04-17.56.39:286][227]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2023.02.04-17.56.39:286][227]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2023.02.04-17.56.39:286][227]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.02.04-17.56.39:293][227]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.02.04-17.56.39:304][227]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.02.04-17.56.40:021][290]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 30
+[2023.02.04-17.56.40:021][290]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.04-17.56.40:021][290]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.04-17.56.40:022][290]LogShaderCompilers: Display: Total job queries 48, among them cache hits 0 (0.00%)
+[2023.02.04-17.56.40:022][290]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.02.04-17.56.40:022][290]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.02.04-17.56.40:022][290]LogShaderCompilers: Display: ================================================
+[2023.02.04-17.56.40:041][292]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 27
+[2023.02.04-17.56.40:041][292]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.04-17.56.40:132][299]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 24
+[2023.02.04-17.56.40:132][299]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.04-17.56.40:160][301]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 21
+[2023.02.04-17.56.40:160][301]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.04-17.56.40:160][301]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2023.02.04-17.56.40:160][301]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.04-17.56.40:176][302]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2023.02.04-17.56.40:176][302]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.04-17.56.40:386][317]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 15
+[2023.02.04-17.56.40:387][317]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.04-17.56.40:487][324]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 13
+[2023.02.04-17.56.40:487][324]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.04-17.56.40:620][334]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2023.02.04-17.56.40:620][334]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.04-17.56.40:650][336]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2023.02.04-17.56.40:650][336]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.04-17.56.40:690][339]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 9
+[2023.02.04-17.56.40:691][339]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.04-17.56.40:828][349]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.02.04-17.56.40:828][349]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.04-17.56.40:855][351]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2023.02.04-17.56.40:855][351]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.04-17.56.40:946][358]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2023.02.04-17.56.40:947][358]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.04-17.56.41:011][363]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.02.04-17.56.41:011][363]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.04-17.56.41:012][363]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2023.02.04-17.56.41:012][363]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.04-17.56.41:229][378]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2023.02.04-17.56.41:229][378]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.04-17.56.41:255][380]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2023.02.04-17.56.41:255][380]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.04-17.56.41:295][383]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2023.02.04-17.56.41:295][383]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.04-17.56.43:238][539]LogSlate: Window 'Message Log' being destroyed
+[2023.02.04-17.56.43:246][539]LogSlate: Window 'Message Log' being destroyed
+[2023.02.04-17.56.45:407][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Armas/Hacha/Axe" FILE="../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Hacha/Axe.uasset" SILENT=true
+[2023.02.04-17.56.45:414][782]LogSavePackage: Moving '../../../../../../Users/Kike/Github/orkcest/Orkcest/Saved/AxeFD34859041D74BFF15E612BBD53B48BE.tmp' to '../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Hacha/Axe.uasset'
+[2023.02.04-17.56.45:427][782]AssetCheck: New page: Asset Save: Axe
+[2023.02.04-17.56.45:427][782]LogContentValidation: Display: Validating StaticMesh /Game/Mesh/Armas/Hacha/Axe.Axe
+[2023.02.04-17.56.45:963][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Armas/Hacha/Material_003" FILE="../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Hacha/Material_003.uasset" SILENT=true
+[2023.02.04-17.56.45:968][835]LogSavePackage: Moving '../../../../../../Users/Kike/Github/orkcest/Orkcest/Saved/Material_003761C389941DF5C57EA613F87BA3D2ADB.tmp' to '../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Hacha/Material_003.uasset'
+[2023.02.04-17.56.45:982][835]AssetCheck: New page: Asset Save: Material_003
+[2023.02.04-17.56.45:982][835]LogContentValidation: Display: Validating Material /Game/Mesh/Armas/Hacha/Material_003.Material_003
+[2023.02.04-17.56.46:426][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Armas/Hacha/Material_001" FILE="../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Hacha/Material_001.uasset" SILENT=true
+[2023.02.04-17.56.46:431][880]LogSavePackage: Moving '../../../../../../Users/Kike/Github/orkcest/Orkcest/Saved/Material_00145B7093A431EF058448B4AAC65618BEA.tmp' to '../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Hacha/Material_001.uasset'
+[2023.02.04-17.56.46:448][880]AssetCheck: New page: Asset Save: Material_001
+[2023.02.04-17.56.46:448][880]LogContentValidation: Display: Validating Material /Game/Mesh/Armas/Hacha/Material_001.Material_001
+[2023.02.04-17.56.46:894][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Armas/Hacha/Material_002" FILE="../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Hacha/Material_002.uasset" SILENT=true
+[2023.02.04-17.56.46:899][926]LogSavePackage: Moving '../../../../../../Users/Kike/Github/orkcest/Orkcest/Saved/Material_0022C024D3B4D36ACF7A56056A46B51A47A.tmp' to '../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Hacha/Material_002.uasset'
+[2023.02.04-17.56.46:924][926]AssetCheck: New page: Asset Save: Material_002
+[2023.02.04-17.56.46:924][926]LogContentValidation: Display: Validating Material /Game/Mesh/Armas/Hacha/Material_002.Material_002
+[2023.02.04-17.56.47:307][966]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Mesh/Armas/Hacha/Axe.Axe
+[2023.02.04-17.56.47:333][966]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.02.04-17.56.47:409][966]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.02.04-17.56.47:877][967]LogRenderer: Reallocating scene render targets to support 852x696 Format 10 NumSamples 1 (Frame:1).
+[2023.02.04-17.56.56:304][636]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Mesh/Armas/Hacha/Material_001.Material_001
+[2023.02.04-17.56.56:305][636]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 08A6C097ACFCF1B30ADB7214282760906A6FD257), compiling. 
+[2023.02.04-17.56.56:352][636]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: A4CCC0249C91505591D8165D416A07499FA5F45D), compiling. 
+[2023.02.04-17.56.56:353][636]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 06440B98CD794D391782606442398E4FDBD70907), compiling. 
+[2023.02.04-17.56.56:366][636]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-17.56.56:408][637]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.04-17.56.56:408][637]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.02.04-17.56.56:408][637]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.02.04-17.56.56:408][637]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.04-17.56.56:408][637]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.04-17.56.56:408][637]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.02.04-17.56.56:408][637]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.04-17.56.56:408][637]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-17.56.56:950][681]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Mesh/Armas/Hacha/Material_002.Material_002
+[2023.02.04-17.56.56:953][681]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: F9B438455AE0EA794A5924A2F6AC61323BD3F5EE), compiling. 
+[2023.02.04-17.56.56:996][681]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: D1F45DD389BF189BDCE1BC2E63ED7982703E7BCF), compiling. 
+[2023.02.04-17.56.56:998][681]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3C77FEA0C57DE32E4B97E522566C6ED13C3A296A), compiling. 
+[2023.02.04-17.56.57:007][681]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-17.56.57:043][682]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.04-17.56.57:043][682]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.02.04-17.56.57:043][682]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.04-17.56.57:043][682]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-17.56.57:476][719]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Mesh/Armas/Hacha/Material_003.Material_003
+[2023.02.04-17.56.57:477][719]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: E1EBBBBE8A4765C7D0C86B25514807A7064B9A6E), compiling. 
+[2023.02.04-17.56.57:519][719]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: E194CA45B939F8A110E898BF49BCCD1A6EDC3B8C), compiling. 
+[2023.02.04-17.56.57:521][719]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0682DB65586474679BD73C9EBBEF8F403ABA9E70), compiling. 
+[2023.02.04-17.56.57:533][719]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-17.56.57:570][720]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.04-17.56.57:570][720]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.02.04-17.56.57:570][720]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.04-17.56.57:570][720]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-17.57.02:830][996]LogRenderer: Reallocating scene render targets to support 852x844 Format 10 NumSamples 1 (Frame:905).
+[2023.02.04-17.57.03:410][ 35]LogRenderer: Reallocating scene render targets to support 852x852 Format 10 NumSamples 1 (Frame:937).
+[2023.02.04-17.57.39:204][461]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 28D38C196ED6A9892333A31A9469E0C126DC5BDF), compiling. 
+[2023.02.04-17.57.39:206][461]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B564DE93CA7A635493EE7B0C5DB6E7A0E2004873), compiling. 
+[2023.02.04-17.57.39:208][461]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.04-17.57.39:220][461]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-17.57.39:255][463]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.04-17.57.39:255][463]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.02.04-17.57.39:255][463]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.04-17.57.39:255][463]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-17.57.43:362][780]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 2FAD2788F3F2E18890AB16C5AE6488C1F4F0BAE5), compiling. 
+[2023.02.04-17.57.43:364][780]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: EF83CF07B2D84A350CB91987E24C98828CBE351B), compiling. 
+[2023.02.04-17.57.43:370][780]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-17.57.43:399][782]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-17.57.43:419][783]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.04-17.57.43:419][783]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.02.04-17.57.43:419][783]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.04-17.57.43:419][783]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-17.57.45:074][953]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 0B8475039C6EE587610C91E3FD9E718D1FBC4190), compiling. 
+[2023.02.04-17.57.45:076][953]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E97C5E92D02DE286C72BA8983993753A35907130), compiling. 
+[2023.02.04-17.57.45:080][953]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-17.57.45:107][955]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-17.57.45:127][956]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.04-17.57.45:127][956]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.02.04-17.57.45:127][956]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.04-17.57.45:127][956]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-17.57.45:814][ 15]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: EACF39E0D49D5228EE6E672147656CA87C150C76), compiling. 
+[2023.02.04-17.57.45:817][ 15]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 71E114BD02F4EE1FA2295D536E95CA1F579650AA), compiling. 
+[2023.02.04-17.57.45:818][ 15]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.04-17.57.45:837][ 15]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-17.57.45:865][ 17]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-17.57.45:884][ 18]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.04-17.57.45:885][ 18]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.02.04-17.57.45:885][ 18]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.04-17.57.45:885][ 18]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-17.58.01:647][689]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 0DE662AC1ED3503160E5382660D785FBFC1469BA), compiling. 
+[2023.02.04-17.58.01:651][689]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C9ED3F0C69255FCED482047C088945E842023F97), compiling. 
+[2023.02.04-17.58.01:652][689]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.04-17.58.01:671][689]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-17.58.01:703][691]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.04-17.58.01:703][691]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.02.04-17.58.01:703][691]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.04-17.58.01:703][691]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-17.58.09:614][311]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 3DF8F552348670A087A99881B62C354F57FE0AFC), compiling. 
+[2023.02.04-17.58.09:616][311]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 88111387799C2915370C5AD8AB20763ADA953EE5), compiling. 
+[2023.02.04-17.58.09:620][311]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-17.58.09:648][313]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-17.58.09:669][314]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.04-17.58.09:669][314]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.02.04-17.58.09:669][314]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.04-17.58.09:669][314]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-17.58.10:530][394]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 2B7B768547015023499823052B12EEF1AB4CBDB1), compiling. 
+[2023.02.04-17.58.10:531][394]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: EF95F5AFAC3E73A99D58317F1D23B3CBA5DC8823), compiling. 
+[2023.02.04-17.58.10:536][394]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-17.58.10:568][396]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-17.58.10:587][397]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.04-17.58.10:587][397]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.02.04-17.58.10:587][397]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.04-17.58.10:587][397]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-17.58.11:148][443]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 5197ED8DA40C84B16D32272E5F0E40FD86A0D326), compiling. 
+[2023.02.04-17.58.11:149][443]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5810CF87713423D2341783B9BC03BEEF2D3AE54B), compiling. 
+[2023.02.04-17.58.11:150][443]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.04-17.58.11:164][443]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-17.58.11:197][445]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.04-17.58.11:197][445]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.02.04-17.58.11:197][445]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.04-17.58.11:197][445]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-17.58.15:213][755]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: F63F708B1FDF59CE9B5C2812F1C578F1A9AD6959), compiling. 
+[2023.02.04-17.58.15:214][755]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 63719F9302FAE60394C5A33C6034CCF39A499F38), compiling. 
+[2023.02.04-17.58.15:219][755]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-17.58.15:247][757]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-17.58.15:268][758]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.04-17.58.15:268][758]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.02.04-17.58.15:268][758]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.04-17.58.15:268][758]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-17.58.16:253][853]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 4A8EB1F4A365F46F57DD92E664E109E280AC3BD2), compiling. 
+[2023.02.04-17.58.16:254][853]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B24B868C168F03D33E2D4020A1D46611DEB2D7B1), compiling. 
+[2023.02.04-17.58.16:259][853]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-17.58.16:286][855]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-17.58.16:308][856]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.04-17.58.16:308][856]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.02.04-17.58.16:308][856]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.04-17.58.16:308][856]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-17.58.17:278][934]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: DA30A88E54BB7C7F3774994CF185E5694D52D8FA), compiling. 
+[2023.02.04-17.58.17:279][934]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 159A1BDBE3DC60E5ABA508B104B3426B8C63CBDC), compiling. 
+[2023.02.04-17.58.17:280][934]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.04-17.58.17:298][934]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-17.58.17:330][936]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.04-17.58.17:330][936]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.02.04-17.58.17:330][936]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.04-17.58.17:330][936]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-17.58.20:428][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Armas/Hacha/Axe" FILE="../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Hacha/Axe.uasset" SILENT=true
+[2023.02.04-17.58.20:432][170]LogSavePackage: Moving '../../../../../../Users/Kike/Github/orkcest/Orkcest/Saved/AxeF3857A3149EFE4E450E42B86EE58AF4E.tmp' to '../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Hacha/Axe.uasset'
+[2023.02.04-17.58.20:447][170]AssetCheck: New page: Asset Save: Axe
+[2023.02.04-17.58.20:447][170]LogContentValidation: Display: Validating StaticMesh /Game/Mesh/Armas/Hacha/Axe.Axe
+[2023.02.04-17.58.29:116][463]LogSlate: Window 'Axe' being destroyed
+[2023.02.04-17.58.29:125][463]LogSlate: Window 'Axe' being destroyed
+[2023.02.04-17.58.29:128][463]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-17.58.29:128][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-17.58.56:128][274]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 5C3175523F7539E708FBC7635681AEE2A0E908CE), compiling. 
+[2023.02.04-17.58.56:130][274]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BB977FEFFDE9F9BE4C7EBEA8FDC8E2835D4D8297), compiling. 
+[2023.02.04-17.58.56:132][274]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.04-17.58.56:150][274]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-17.58.56:173][276]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-17.58.56:189][277]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.04-17.58.56:189][277]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.02.04-17.58.56:189][277]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.04-17.58.56:189][277]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-17.58.59:845][637]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Mesh/Armas/Hacha/Axe.Axe
+[2023.02.04-17.59.04:254][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Armas/Hacha/Axe" FILE="../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Hacha/Axe.uasset" SILENT=true
+[2023.02.04-17.59.04:257][ 54]LogSavePackage: Moving '../../../../../../Users/Kike/Github/orkcest/Orkcest/Saved/Axe2AFA2CE34C1426C95C5201A9DF5E7CDC.tmp' to '../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Hacha/Axe.uasset'
+[2023.02.04-17.59.04:273][ 54]AssetCheck: New page: Asset Save: Axe
+[2023.02.04-17.59.04:273][ 54]LogContentValidation: Display: Validating StaticMesh /Game/Mesh/Armas/Hacha/Axe.Axe
+[2023.02.04-17.59.08:300][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Armas/Hacha/Axe" FILE="../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Hacha/Axe.uasset" SILENT=true
+[2023.02.04-17.59.08:303][482]LogSavePackage: Moving '../../../../../../Users/Kike/Github/orkcest/Orkcest/Saved/AxeA305053C4940F121204DD9B679518C1B.tmp' to '../../../../../../Users/Kike/Github/orkcest/Orkcest/Content/Mesh/Armas/Hacha/Axe.uasset'
+[2023.02.04-17.59.08:317][482]AssetCheck: New page: Asset Save: Axe
+[2023.02.04-17.59.08:317][482]LogContentValidation: Display: Validating StaticMesh /Game/Mesh/Armas/Hacha/Axe.Axe
