@@ -71,7 +71,7 @@ Intermediate/*
 Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
-!DerivedDataCache/*
-!Orkcest/Config/*
-!Orkcest/Intermediate/*
-!Orkcest/Saved/*
+DerivedDataCache/*
+Orkcest/Config/*
+Orkcest/Intermediate/*
+Orkcest/Saved/*
